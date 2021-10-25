@@ -1,1 +1,2 @@
-# stone_paper_scissor_web_game
+
+# Typescript module
